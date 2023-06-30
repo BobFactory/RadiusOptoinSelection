@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RadiusDevTask</string>
+    <string name="msg_internet_failure">Unable to fetch data from server. Please check your internet connect and relaunch the app.</string>
+    <string name="title_property_specification">Select property specifications:</string>
+</resources>
